@@ -10,7 +10,7 @@ permalink:        pretty
 title:            "Robotics: Science and Systems"
 tagline:          'A Robotics Conference'
 description:      'June 27th - July 1st, 2022.'
-url:              "https://roboticsconference.org"
+url:              "https://ut-austin-rpl.github.io/rss2022/"
 baseurl:          ""
 include:          ['_pages']
 exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'GRTAGS', 'GPATH', 'GTAGS', 'deploy.sh']
